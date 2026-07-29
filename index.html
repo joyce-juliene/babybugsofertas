@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Baby Bugs — Ofertas e Cupons</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, 'Segoe UI', Roboto, sans-serif;
+    background: #F7F3EE;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  .header {
+    background: #1C1C1C;
+    padding: 24px 20px 20px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 4px solid #FFC107;
+  }
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .header img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: 3px solid #FFC107;
+  }
+  .header-text h1 {
+    font-size: 24px;
+    color: #FFC107;
+    font-weight: 800;
+    letter-spacing: 1px;
+  }
+  .header-text p {
+    font-size: 13px;
+    color: #AAAAAA;
+    margin-top: 2px;
+  }
+
+  /* ── Abas ── */
+  .tabs {
+    display: flex;
+    max-width: 700px;
+    margin: 20px auto 0;
+    gap: 10px;
+    padding: 0 16px;
+  }
+  .tab {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+    background: #FFFFFF;
+    color: #777;
+    border: 2px solid #EEEEEE;
+    transition: all 0.2s;
+  }
+  .tab.ativo {
+    background: #1C1C1C;
+    color: #FFC107;
+    border-color: #1C1C1C;
+  }
+
+  /* ── Contagem ── */
+  .contagem {
+    text-align: center;
+    padding: 12px 0 0;
+    font-size: 13px;
+    color: #999;
+  }
+
+  /* ── Grid de cards ── */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 18px;
+    max-width: 1000px;
+    margin: 16px auto;
+    padding: 0 16px 40px;
+  }
+
+  /* ── Card de produto ── */
+  .card {
+    background: #FFFFFF;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+  }
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  }
+
+  .badge-desconto {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    background: #E53935;
+    color: white;
+    font-size: 13px;
+    font-weight: 800;
+    padding: 6px 12px;
+    border-radius: 20px;
+    z-index: 2;
+  }
+
+  .badge-cupom {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    background: #FFC107;
+    color: #1C1C1C;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 5px 10px;
+    border-radius: 20px;
+    z-index: 2;
+  }
+
+  .card-foto {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    background: #FAFAFA;
+    padding: 20px;
+  }
+
+  .card-foto-placeholder {
+    width: 100%;
+    height: 220px;
+    background: #F0F0F0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+  }
+
+  .card-body {
+    padding: 16px 18px 20px;
+  }
+
+  .card-nome {
+    font-size: 15px;
+    font-weight: 600;
+    color: #333;
+    line-height: 1.4;
+    margin-bottom: 14px;
+    min-height: 42px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .precos {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 6px;
+  }
+  .preco-de {
+    text-decoration: line-through;
+    color: #BBBBBB;
+    font-size: 14px;
+  }
+  .preco-por {
+    font-size: 26px;
+    font-weight: 800;
+    color: #E53935;
+  }
+
+  .economia {
+    font-size: 13px;
+    color: #555;
+    margin-bottom: 14px;
+  }
+
+  .cupom-box {
+    background: #FFF8E1;
+    border: 2px dashed #FFC107;
+    border-radius: 10px;
+    padding: 10px 14px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .cupom-box .cupom-label {
+    font-size: 12px;
+    color: #888;
+    display: block;
+  }
+  .cupom-box .cupom-codigo {
+    font-size: 18px;
+    font-weight: 800;
+    color: #E65100;
+    letter-spacing: 1px;
+  }
+  .cupom-copiar {
+    margin-left: auto;
+    background: #FFC107;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    color: #1C1C1C;
+  }
+  .cupom-copiar:active { opacity: 0.7; }
+
+  .btn-comprar {
+    display: block;
+    text-align: center;
+    background: #1C1C1C;
+    color: #FFC107;
+    padding: 14px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    transition: background 0.2s;
+  }
+  .btn-comprar:hover { background: #333; }
+
+  /* ── Vazio ── */
+  .vazio {
+    text-align: center;
+    padding: 80px 20px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  .vazio .emoji { font-size: 56px; margin-bottom: 16px; }
+  .vazio h2 { font-size: 20px; color: #444; margin-bottom: 8px; }
+  .vazio p { font-size: 14px; color: #999; line-height: 1.6; }
+
+  /* ── Footer ── */
+  .footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: #BBBBBB;
+    font-size: 12px;
+    border-top: 1px solid #EEEEEE;
+  }
+
+  /* ── Toast ── */
+  .toast {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1C1C1C;
+    color: #FFC107;
+    padding: 12px 24px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    opacity: 0;
+    transition: opacity 0.3s;
+    z-index: 999;
+  }
+  .toast.show { opacity: 1; }
+
+  @media (max-width: 480px) {
+    .grid { grid-template-columns: 1fr; }
+    .header-text h1 { font-size: 20px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-inner">
+    <img src="logo.png" alt="Baby Bugs">
+    <div class="header-text">
+      <h1>BABY BUGS</h1>
+      <p>Ofertas e cupons para bebês e crianças 🐞</p>
+    </div>
+  </div>
+</div>
+
+<div class="tabs">
+  <div class="tab ativo" onclick="filtrar('todos')" id="tab-todos">Todas as Ofertas</div>
+  <div class="tab" onclick="filtrar('cupom')" id="tab-cupons">Cupons Ativos</div>
+</div>
+
+<div class="contagem" id="contagem">Carregando...</div>
+
+<div class="grid" id="grid"></div>
+
+<div class="footer">
+  Atualizado automaticamente pelo Bot Baby Bugs 🤖<br>
+  Os preços e disponibilidade podem variar. Confira sempre antes de comprar.
+</div>
+
+<div class="toast" id="toast">Cupom copiado!</div>
+
+<script>
+  let todosOsProdutos = [];
+  let filtroAtual = 'todos';
+
+  // ── Carrega os dados do JSON gerado pelo bot ──────────────────────────────
+  async function carregarProdutos() {
+    try {
+      const resp = await fetch('produtos.json?t=' + Date.now());
+      if (!resp.ok) throw new Error('sem dados');
+      todosOsProdutos = await resp.json();
+    } catch(e) {
+      todosOsProdutos = [];
+    }
+    renderizar();
+  }
+
+  function filtrar(tipo) {
+    filtroAtual = tipo;
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('ativo'));
+    document.getElementById('tab-' + (tipo === 'todos' ? 'todos' : 'cupons')).classList.add('ativo');
+    renderizar();
+  }
+
+  function renderizar() {
+    const grid = document.getElementById('grid');
+    const cont = document.getElementById('contagem');
+
+    let lista = filtroAtual === 'cupom'
+      ? todosOsProdutos.filter(p => p.cupom)
+      : todosOsProdutos;
+
+    cont.textContent = lista.length > 0
+      ? lista.length + ' oferta(s) disponível(is)'
+      : '';
+
+    if (lista.length === 0) {
+      grid.innerHTML = `
+        <div class="vazio" style="grid-column:1/-1">
+          <div class="emoji">🐞</div>
+          <h2>Nenhuma oferta no momento</h2>
+          <p>Fique de olho nos nossos Stories para não perder nenhuma oferta!</p>
+        </div>`;
+      return;
+    }
+
+    grid.innerHTML = lista.map(p => {
+      const desconto = p.preco_original > 0
+        ? Math.round((1 - p.preco_atual / p.preco_original) * 100)
+        : 0;
+      const economia = (p.preco_original - p.preco_atual).toFixed(2).replace('.', ',');
+
+      const fotHtml = p.foto_url
+        ? `<img class="card-foto" src="${p.foto_url}" alt="${p.nome}" onerror="this.parentElement.innerHTML='<div class=card-foto-placeholder>👶</div>'">`
+        : `<div class="card-foto-placeholder">👶</div>`;
+
+      const cupomHtml = p.cupom ? `
+        <div class="cupom-box">
+          <div>
+            <span class="cupom-label">Código do cupom</span>
+            <span class="cupom-codigo">${p.cupom}</span>
+          </div>
+          <button class="cupom-copiar" onclick="copiarCupom('${p.cupom}')">Copiar</button>
+        </div>` : '';
+
+      const badgeCupom = p.cupom ? `<div class="badge-cupom">🎟️ Cupom</div>` : '';
+
+      return `
+        <div class="card">
+          ${badgeCupom}
+          ${desconto > 0 ? `<div class="badge-desconto">-${desconto}%</div>` : ''}
+          ${fotHtml}
+          <div class="card-body">
+            <div class="card-nome">${p.nome}</div>
+            <div class="precos">
+              ${p.preco_original > 0 ? `<span class="preco-de">R$ ${p.preco_original.toFixed(2).replace('.', ',')}</span>` : ''}
+              <span class="preco-por">R$ ${p.preco_atual.toFixed(2).replace('.', ',')}</span>
+            </div>
+            ${desconto > 0 ? `<div class="economia">Economia de R$ ${economia} (${desconto}% OFF)</div>` : ''}
+            ${cupomHtml}
+            <a href="${p.link_afiliado}" target="_blank" class="btn-comprar">
+              Comprar agora na Amazon →
+            </a>
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  function copiarCupom(codigo) {
+    navigator.clipboard.writeText(codigo).then(() => {
+      const toast = document.getElementById('toast');
+      toast.textContent = `Cupom "${codigo}" copiado!`;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2500);
+    });
+  }
+
+  // Atualiza a cada 5 minutos automaticamente
+  carregarProdutos();
+  setInterval(carregarProdutos, 300000);
+</script>
+</body>
+</html>
