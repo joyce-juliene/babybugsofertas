@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba, Chocalho Com Mordedor Coelhinho",
+    "preco_atual": 24.0,
+    "preco_original": 28.79,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0CRZC7GRL?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41vb3rPtqYL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "31/07/2026 19:49"
+  },
+  {
     "nome": "Tablet Infantil Patrulha Canina Chase 4GB RAM + 64GB Tela 7 pol Android 13 Quad Core Multi - NB421",
     "preco_atual": 414.9,
     "preco_original": 559.0,
@@ -58,15 +68,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "30/07/2026 20:09"
-  },
-  {
-    "nome": "Buba, Chocalho Com Mordedor Coelhinho",
-    "preco_atual": 23.98,
-    "preco_original": 28.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0CRZC7GRL?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41vb3rPtqYL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "30/07/2026 18:09"
   }
 ]
