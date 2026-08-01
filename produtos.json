@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Johnson's Baby Shampoo Infantil Cheiro Prolongado, 400ml, Azul",
+    "preco_atual": 23.59,
+    "preco_original": 29.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41vG4C1XcdL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "01/08/2026 08:00"
+  },
+  {
     "nome": "Cadeira de Alimentação Bebê 6 a 36 Meses Kidino com Bandeja Removível Cinto de Segurança Apoio para Pés",
     "preco_atual": 189.9,
     "preco_original": 239.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "31/07/2026 20:21"
-  },
-  {
-    "nome": "Canguru Para Bebe,Alça De Transporte Multifuncional 6 e 1,Canguru Ergonomico Para Bebe,Adequado Para 0-36 Meses (Rosa)",
-    "preco_atual": 103.99,
-    "preco_original": 126.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0D8W23V5Q?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/418mxLTvFTL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "31/07/2026 20:04"
   }
 ]
