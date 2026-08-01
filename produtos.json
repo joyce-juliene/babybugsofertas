@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Berço Mini Cama 3 em 1 Soninho Tigus Baby Amadeirado",
+    "preco_atual": 359.29,
+    "preco_original": 429.39,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0C62WKXG4?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51uD9nmQLQL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "01/08/2026 01:22"
+  },
+  {
     "nome": "Cadeira de Alimentação Bebê Portátil 6 em 1,Dobra com um Toque. (Cinza)",
     "preco_atual": 339.0,
     "preco_original": 499.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "31/07/2026 10:31"
-  },
-  {
-    "nome": "Buba Kit Cuidados Com Estojo Verde",
-    "preco_atual": 59.26,
-    "preco_original": 78.3,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0BZFDTWB7?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41dJ4m94-BL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "31/07/2026 07:50"
   }
 ]
