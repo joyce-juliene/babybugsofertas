@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
+    "preco_atual": 17.99,
+    "preco_original": 21.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31ih8p5jAHL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "02/08/2026 11:03"
+  },
+  {
     "nome": "Johnson's Baby Shampoo Infantil Cheiro Prolongado, 400ml, Azul",
     "preco_atual": 23.59,
     "preco_original": 29.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "31/07/2026 21:01"
-  },
-  {
-    "nome": "Nathor Bicicleta Infantil Aro 12 Spider-Man",
-    "preco_atual": 235.9,
-    "preco_original": 277.53,
-    "link_afiliado": "https://www.amazon.com.br/dp/B09ZPTXXTT?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41-6RPwudAL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "31/07/2026 20:21"
   }
 ]
