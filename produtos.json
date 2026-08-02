@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Elka Chocalho Pluto",
+    "preco_atual": 19.99,
+    "preco_original": 24.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0C6B2992B?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41cuicdH8BL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "02/08/2026 11:12"
+  },
+  {
     "nome": "Cosco Kids, Cadeirinha Progress, 0 a 36kg, Preto",
     "preco_atual": 539.9,
     "preco_original": 682.96,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "01/08/2026 00:03"
-  },
-  {
-    "nome": "Marvel, Homem de Ferro, Figura articulada de 30 cm, acima de 4 anos",
-    "preco_atual": 66.59,
-    "preco_original": 82.89,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0CHZ2SNCS?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41qoz5mjX+L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "31/07/2026 21:19"
   }
 ]
