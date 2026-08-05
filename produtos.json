@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+    "preco_atual": 34.11,
+    "preco_original": 52.98,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31Y8qLGnumL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:28"
+  },
+  {
     "nome": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "preco_atual": 37.8,
     "preco_original": 49.76,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "01/08/2026 04:08"
-  },
-  {
-    "nome": "Kit Brincando de Médico Mala Doutora Luz e Som BBR Toys",
-    "preco_atual": 78.28,
-    "preco_original": 119.96,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0C9VHSYJS?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41Z8ZfMfr6L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "01/08/2026 03:52"
   }
 ]
