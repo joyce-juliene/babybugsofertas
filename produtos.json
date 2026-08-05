@@ -1,5 +1,15 @@
 [
   {
+    "nome": "PAMPERS SHAMP GLICERINA 400ml",
+    "preco_atual": 20.39,
+    "preco_original": 23.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0CNQ6X388?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31ccsuFB1KL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:35"
+  },
+  {
     "nome": "Granado Shampoo Bebê, Camomila, 250ml",
     "preco_atual": 15.99,
     "preco_original": 19.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "01/08/2026 08:00"
-  },
-  {
-    "nome": "Cadeira de Alimentação Bebê 6 a 36 Meses Kidino com Bandeja Removível Cinto de Segurança Apoio para Pés",
-    "preco_atual": 189.9,
-    "preco_original": 239.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0H1TKF1P3?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31WFm-7CJjL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "01/08/2026 07:44"
   }
 ]
