@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
+    "preco_atual": 42.89,
+    "preco_original": 63.8,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41DtpwlWPkL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:39"
+  },
+  {
     "nome": "PAMPERS SHAMP GLICERINA 400ml",
     "preco_atual": 20.39,
     "preco_original": 23.99,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "02/08/2026 11:03"
-  },
-  {
-    "nome": "Johnson's Baby Shampoo Infantil Cheiro Prolongado, 400ml, Azul",
-    "preco_atual": 23.59,
-    "preco_original": 29.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41vG4C1XcdL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "01/08/2026 08:00"
   }
 ]
