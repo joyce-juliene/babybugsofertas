@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba, Bowl Em Silicone Com Ventosa Gumy Verde",
+    "preco_atual": 22.23,
+    "preco_original": 26.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0GNM6FMY5?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/315UJQs1o5L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:53"
+  },
+  {
     "nome": "Buba, Pratinho Em Silicone Com Ventosa Gumy Rosa",
     "preco_atual": 32.37,
     "preco_original": 42.48,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "05/08/2026 14:21"
-  },
-  {
-    "nome": "Fisher-Price - Primeiros Conceitos",
-    "preco_atual": 24.9,
-    "preco_original": 30.08,
-    "link_afiliado": "https://www.amazon.com.br/dp/8538096923?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51Wj-olCj7L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "02/08/2026 11:16"
   }
 ]
