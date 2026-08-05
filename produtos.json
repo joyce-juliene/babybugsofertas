@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Granado Shampoo Bebê, Camomila, 250ml",
+    "preco_atual": 15.99,
+    "preco_original": 19.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B09VHK8KSZ?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31m9l-ZCpDL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:31"
+  },
+  {
     "nome": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
     "preco_atual": 34.11,
     "preco_original": 52.98,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "01/08/2026 07:44"
-  },
-  {
-    "nome": "Verden Bicicleta Infantil Casa Magica Da Gabby Aro 12 com cestinha rodinhas de apoio e garrafinha",
-    "preco_atual": 210.67,
-    "preco_original": 259.79,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0DYB4M3ZZ?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41XJWIehUlL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "01/08/2026 04:08"
   }
 ]
