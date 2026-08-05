@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Burigotto Cadeira De Refeição Poke Polar",
+    "preco_atual": 249.0,
+    "preco_original": 315.46,
+    "link_afiliado": "https://www.amazon.com.br/dp/B09LRF9GH2?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31bJdu3dS4L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:46"
+  },
+  {
     "nome": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
     "preco_atual": 59.99,
     "preco_original": 77.99,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "02/08/2026 11:12"
-  },
-  {
-    "nome": "Cosco Kids, Cadeirinha Progress, 0 a 36kg, Preto",
-    "preco_atual": 539.9,
-    "preco_original": 682.96,
-    "link_afiliado": "https://www.amazon.com.br/dp/B08YMXTLX2?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31PmSkxtUDL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "02/08/2026 11:07"
   }
 ]
