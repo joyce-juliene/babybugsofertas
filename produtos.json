@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba, Pratinho Em Silicone Com Ventosa Gumy Rosa",
+    "preco_atual": 32.37,
+    "preco_original": 42.48,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0F8CZH91M?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31OVRvYFiPL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:50"
+  },
+  {
     "nome": "Burigotto Cadeira De Refeição Poke Polar",
     "preco_atual": 249.0,
     "preco_original": 315.46,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "02/08/2026 11:16"
-  },
-  {
-    "nome": "Elka Chocalho Pluto",
-    "preco_atual": 19.99,
-    "preco_original": 24.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0C6B2992B?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41cuicdH8BL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "02/08/2026 11:12"
   }
 ]
