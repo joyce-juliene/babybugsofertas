@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
+    "preco_atual": 59.99,
+    "preco_original": 77.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41i70H0CvsL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "05/08/2026 14:42"
+  },
+  {
     "nome": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
     "preco_atual": 42.89,
     "preco_original": 63.8,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "02/08/2026 11:07"
-  },
-  {
-    "nome": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
-    "preco_atual": 17.99,
-    "preco_original": 21.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31ih8p5jAHL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "02/08/2026 11:03"
   }
 ]
