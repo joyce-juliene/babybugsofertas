@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Safety 1st, Berço Mini Play, Grey Denim",
+    "preco_atual": 413.3,
+    "preco_original": 535.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B081T9WZHG?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41LSNpK5AwL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "06/08/2026 00:30"
+  },
+  {
     "nome": "Burigotto Banheira Millenia, Mescla Silver",
     "preco_atual": 409.0,
     "preco_original": 544.45,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "05/08/2026 14:46"
-  },
-  {
-    "nome": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
-    "preco_atual": 59.99,
-    "preco_original": 77.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41i70H0CvsL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "05/08/2026 14:42"
   }
 ]
