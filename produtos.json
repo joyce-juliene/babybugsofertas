@@ -1,5 +1,15 @@
 [
   {
+    "nome": "TakTark Babá Eletrônica, 5\" 720P HD Bebê Câmera com Tela, Sem Wifi, Panorâmica Inclinação, Áudio Bidirecional, Night Vision, Zoom Digital, Detecção De Som Vox, Ideal Para Novos Pais",
+    "preco_atual": 567.49,
+    "preco_original": 699.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0C2Z63CMP?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41O-zRiyyaL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "06/08/2026 00:15"
+  },
+  {
     "nome": "Babá Eletrônica, TakTark Câmera para Bebês com Tela de 3.2\", Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Canção de Ninar",
     "preco_atual": 318.95,
     "preco_original": 399.99,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "05/08/2026 14:31"
-  },
-  {
-    "nome": "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
-    "preco_atual": 34.11,
-    "preco_original": 52.98,
-    "link_afiliado": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31Y8qLGnumL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "05/08/2026 14:28"
   }
 ]
