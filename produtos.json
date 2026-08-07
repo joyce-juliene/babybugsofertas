@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+    "preco_atual": 20.08,
+    "preco_original": 24.94,
+    "link_afiliado": "https://www.amazon.com.br/dp/6561263022?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51o34WBK0jL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/08/2026 09:51"
+  },
+  {
     "nome": "Kit Bolsa Mochila De Maternidade Linho Elegante Impermeável 2 Peças (Bege)",
     "preco_atual": 284.99,
     "preco_original": 349.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "07/08/2026 09:05"
-  },
-  {
-    "nome": "Conjunto Fleece menina, manga longa, Pijama roupa infantil, brilha no escuro, TAM. 02",
-    "preco_atual": 71.34,
-    "preco_original": 89.82,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0DVK9GTV6?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/318Jo4avH1L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "06/08/2026 00:41"
   }
 ]
