@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Coleção Minhas Primeiras 101 Palavras - Box com 3 Livrinhos",
+    "preco_atual": 36.9,
+    "preco_original": 45.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/6555478667?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51jwSH8ATtL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/08/2026 09:24"
+  },
+  {
     "nome": "Maleta Doutora com Luz e Som BBR Toys",
     "preco_atual": 68.79,
     "preco_original": 86.74,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "06/08/2026 00:30"
-  },
-  {
-    "nome": "Burigotto Banheira Millenia, Mescla Silver",
-    "preco_atual": 409.0,
-    "preco_original": 544.45,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0964DYPXW?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31amq4inUqL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "06/08/2026 00:26"
   }
 ]
