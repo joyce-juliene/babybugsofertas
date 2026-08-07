@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba, Mamadeira Easy Flow Elefante Rosa 270ml",
+    "preco_atual": 23.73,
+    "preco_original": 32.62,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0DH6JHJJV?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31u3bl+E1LL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/08/2026 18:02"
+  },
+  {
     "nome": "Patrulha Canina - Pelúcia Tracker Sunny Brinquedos 12', Multicor",
     "preco_atual": 85.0,
     "preco_original": 111.99,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "07/08/2026 09:16"
-  },
-  {
-    "nome": "Mickey Chocalho Elka Azul Escuro Com Azul Claro",
-    "preco_atual": 16.9,
-    "preco_original": 24.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B07KFJ9CXG?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41s1gn1fyKL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "07/08/2026 09:12"
   }
 ]
