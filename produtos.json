@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Patrulha Canina - Pelúcia Tracker Sunny Brinquedos 12', Multicor",
+    "preco_atual": 85.0,
+    "preco_original": 111.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07BBVYBCV?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41XrtFAqsML._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/08/2026 17:58"
+  },
+  {
     "nome": "Safety 1st, Bolsa Paternidade Reserva, 0 a 7kg, Black",
     "preco_atual": 454.0,
     "preco_original": 599.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "07/08/2026 09:12"
-  },
-  {
-    "nome": "Buba Mordedor Centopeia Baby Multicor",
-    "preco_atual": 17.84,
-    "preco_original": 22.0,
-    "link_afiliado": "https://www.amazon.com.br/dp/B07BZVNFSB?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41ITnbP85pL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "07/08/2026 09:08"
   }
 ]
