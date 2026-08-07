@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Mickey Chocalho Elka Azul Escuro Com Azul Claro",
+    "preco_atual": 16.9,
+    "preco_original": 24.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07KFJ9CXG?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41s1gn1fyKL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/08/2026 09:12"
+  },
+  {
     "nome": "Buba Mordedor Centopeia Baby Multicor",
     "preco_atual": 17.84,
     "preco_original": 22.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "06/08/2026 00:19"
-  },
-  {
-    "nome": "TakTark Babá Eletrônica, 5\" 720P HD Bebê Câmera com Tela, Sem Wifi, Panorâmica Inclinação, Áudio Bidirecional, Night Vision, Zoom Digital, Detecção De Som Vox, Ideal Para Novos Pais",
-    "preco_atual": 567.49,
-    "preco_original": 699.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0C2Z63CMP?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41O-zRiyyaL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "06/08/2026 00:15"
   }
 ]
