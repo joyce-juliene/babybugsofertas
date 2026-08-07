@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba Mordedor Centopeia Baby Multicor",
+    "preco_atual": 17.84,
+    "preco_original": 22.0,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07BZVNFSB?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41ITnbP85pL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/08/2026 09:08"
+  },
+  {
     "nome": "Fisher-Price Brinquedo para Bebês Potinhos Empilhar & Rolar para crianças a partir de 6 meses",
     "preco_atual": 62.66,
     "preco_original": 77.99,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "06/08/2026 00:15"
-  },
-  {
-    "nome": "Babá Eletrônica, TakTark Câmera para Bebês com Tela de 3.2\", Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Canção de Ninar",
-    "preco_atual": 318.95,
-    "preco_original": 399.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0975WWR2C?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41BwFMyAiRL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "06/08/2026 00:11"
   }
 ]
