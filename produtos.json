@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba Kit Cuidados Com Estojo Verde",
+    "preco_atual": 32.99,
+    "preco_original": 59.26,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0BZFDTWB7?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41dJ4m94-BL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "08/08/2026 06:51"
+  },
+  {
     "nome": "Pais & Filhos | Quebra‑Cabeça Infantil Fundo do Mar 150 Peças | Puzzle Educativo para Crianças +4 anos | Jogo de Raciocínio e Coordenação Motora",
     "preco_atual": 19.9,
     "preco_original": 23.65,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "07/08/2026 09:24"
-  },
-  {
-    "nome": "Maleta Doutora com Luz e Som BBR Toys",
-    "preco_atual": 68.79,
-    "preco_original": 86.74,
-    "link_afiliado": "https://www.amazon.com.br/dp/B09611H8SS?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41nD2IbesNL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "07/08/2026 09:20"
   }
 ]
