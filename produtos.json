@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "preco_atual": 22.76,
+    "preco_original": 27.05,
+    "link_afiliado": "https://www.amazon.com.br/dp/B099KXW911?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41QSw44yLeL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "11/08/2026 11:37"
+  },
+  {
     "nome": "Blocos Magneticos Infantil de Montar 76 Peças, Brinquedo Educativo Construção Infantil 2D, 3D, Jogo Pedagógico para Coordenação Motora, Raciocínio Lógico, Criatividade e Aprendizado STEM",
     "preco_atual": 104.73,
     "preco_original": 136.47,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "07/08/2026 09:51"
-  },
-  {
-    "nome": "Kit Bolsa Mochila De Maternidade Linho Elegante Impermeável 2 Peças (Bege)",
-    "preco_atual": 284.99,
-    "preco_original": 349.0,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0GQJFJ3WJ?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31WUDzqBdNL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "07/08/2026 09:35"
   }
 ]
