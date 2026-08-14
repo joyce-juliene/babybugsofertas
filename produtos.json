@@ -1,5 +1,15 @@
 [
   {
+    "nome": "A ilha do vovô",
+    "preco_atual": 50.52,
+    "preco_original": 61.55,
+    "link_afiliado": "https://www.amazon.com.br/dp/8516105784?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51rzpOq2L7L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "14/08/2026 19:17"
+  },
+  {
     "nome": "Brastoy Blocos de Montar Construção de Aprendizagem STEM Brinquedo Infantil 554 Peças",
     "preco_atual": 55.38,
     "preco_original": 78.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "07/08/2026 17:58"
-  },
-  {
-    "nome": "Safety 1st, Bolsa Paternidade Reserva, 0 a 7kg, Black",
-    "preco_atual": 454.0,
-    "preco_original": 599.0,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0CH1DRNYN?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41Dpvjrt5LL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "07/08/2026 10:43"
   }
 ]
