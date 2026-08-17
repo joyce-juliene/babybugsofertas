@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Brinquedo Educativo Montessori - Conjunto de Madeira com 8 Peças",
+    "preco_atual": 99.0,
+    "preco_original": 120.0,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FY5NNT3W?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51g3i6U1aJL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "17/08/2026 11:17"
+  },
+  {
     "nome": "Kit Montessori Educativo Infantil 5 Peças – Brinquedos Educativos de Madeira para Coordenação Motora e Aprendizado Sensorial – Torre Montessori, Xilofone, Aramado e Tabuleiros Geométricos",
     "preco_atual": 79.52,
     "preco_original": 112.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "09/08/2026 08:36"
-  },
-  {
-    "nome": "Buba Kit Cuidados Com Estojo Verde",
-    "preco_atual": 32.99,
-    "preco_original": 59.26,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0BZFDTWB7?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41dJ4m94-BL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "08/08/2026 06:51"
   }
 ]
