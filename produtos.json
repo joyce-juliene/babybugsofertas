@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Tablet Infantil Bilíngue Interativo Educativo Divertido",
+    "preco_atual": 60.0,
+    "preco_original": 80.15,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0DQ64M3VN?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51HIIFUiZEL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "18/08/2026 05:07"
+  },
+  {
     "nome": "MAM Baby 1 Mamadeira Easy Start 130ml Anticólica e Menos Bolhas de Ar, para Crianças 0+ Meses Autoesterilizável e com Bico de Silicone Skinsoft, Neutra",
     "preco_atual": 44.0,
     "preco_original": 54.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "11/08/2026 11:37"
-  },
-  {
-    "nome": "Blocos Magneticos Infantil de Montar 76 Peças, Brinquedo Educativo Construção Infantil 2D, 3D, Jogo Pedagógico para Coordenação Motora, Raciocínio Lógico, Criatividade e Aprendizado STEM",
-    "preco_atual": 104.73,
-    "preco_original": 136.47,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0GSKYKJKR?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51QQH7Tpq3L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "11/08/2026 11:33"
   }
 ]
