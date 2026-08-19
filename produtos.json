@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Câmera Digital Infantil Portátil 20MP",
+    "preco_atual": 109.0,
+    "preco_original": 152.0,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0DMSZPHBJ?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41DxHnGZyTL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "19/08/2026 17:28"
+  },
+  {
     "nome": "MAM Baby 1 Mamadeira Easy Start 130ml Anticólica e Menos Bolhas de Ar, para Crianças 0+ Meses Autoesterilizável e com Bico de Silicone Skinsoft, Neutra",
     "preco_atual": 44.0,
     "preco_original": 53.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "17/08/2026 11:17"
-  },
-  {
-    "nome": "Kit Montessori Educativo Infantil 5 Peças – Brinquedos Educativos de Madeira para Coordenação Motora e Aprendizado Sensorial – Torre Montessori, Xilofone, Aramado e Tabuleiros Geométricos",
-    "preco_atual": 79.52,
-    "preco_original": 112.0,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0GSXJDH71?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51Pw+HonA3L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "17/08/2026 11:13"
   }
 ]
