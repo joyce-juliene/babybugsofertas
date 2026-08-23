@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba Kit Cuidados Com Estojo Verde",
+    "preco_atual": 32.99,
+    "preco_original": 59.26,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0BZFDTWB7?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41dJ4m94-BL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "22/08/2026 22:25"
+  },
+  {
     "nome": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
     "preco_atual": 40.92,
     "preco_original": 54.28,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "19/08/2026 13:02"
-  },
-  {
-    "nome": "Cortador Aparador Lixa de Unha de Bebê Recém Nascido Elétrico com lixas para diversas idades até adulto (Azul)",
-    "preco_atual": 23.0,
-    "preco_original": 29.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0BZK2JWHQ?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41apygrSO8L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "19/08/2026 07:21"
   }
 ]
