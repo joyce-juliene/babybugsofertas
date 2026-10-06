@@ -1,5 +1,15 @@
 [
   {
+    "nome": "LEGO DUPLO Classic Caixa Colorida Criativa 10479",
+    "preco_atual": 129.9,
+    "preco_original": 169.89,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0G2T19K85?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51Z6fR9-Z+L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "06/10/2026 12:03"
+  },
+  {
     "nome": "Patinete Infantil Musical 3 Rodas Kiddy - Replay Kids - Rosa",
     "preco_atual": 77.69,
     "preco_original": 98.84,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "30/08/2026 12:43"
-  },
-  {
-    "nome": "Buba Kit Cuidados Com Estojo Verde",
-    "preco_atual": 32.99,
-    "preco_original": 59.26,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0BZFDTWB7?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41dJ4m94-BL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "22/08/2026 22:25"
   }
 ]
