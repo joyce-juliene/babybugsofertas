@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Cadeira para Auto Materna Preto Cobre Burigotto",
+    "preco_atual": 372.0,
+    "preco_original": 487.0,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0CW3SRHT1?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31572p0g6yL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/10/2026 19:27"
+  },
+  {
     "nome": "Buba Saco De Dormir Baby Super Soft Azul",
     "preco_atual": 89.9,
     "preco_original": 119.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "06/10/2026 10:59"
-  },
-  {
-    "nome": "Cavalinho Upa Upa Inflável Musical, Cinza/Marrom, 12m-7 anos, 40kg",
-    "preco_atual": 47.38,
-    "preco_original": 67.0,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0HD2KBYV6?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/410VC7DIiSL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "06/10/2026 10:53"
   }
 ]
