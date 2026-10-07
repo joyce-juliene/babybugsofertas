@@ -1,5 +1,15 @@
 [
   {
+    "nome": "LEGO Marvel Spidey e seus Amigos Espetaculares Spidey em sua 11206",
+    "preco_atual": 89.99,
+    "preco_original": 113.6,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FMS8VHYM?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/515rhrCyo0L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "07/10/2026 09:58"
+  },
+  {
     "nome": "Philips Avent Kit de Mamadeira Pétala, 125ml bico fluxo-lento, 260ml bico fluxo-médio, 330ml bico fluxo-rápido, Rosa SCD838/28",
     "preco_atual": 118.99,
     "preco_original": 151.29,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "06/10/2026 10:39"
-  },
-  {
-    "nome": "Carter's Conjunto de pijama de algodão de ajuste apertado para meninos, 4 peças, rosto de raposa, verde, 3T",
-    "preco_atual": 118.63,
-    "preco_original": 159.1,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0H5KZT758?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41FpQrWXquL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "06/10/2026 10:16"
   }
 ]
