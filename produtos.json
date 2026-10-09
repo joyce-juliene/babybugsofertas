@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Brincando de Profissões Doutor e Cia Maleta Roma",
+    "preco_atual": 38.36,
+    "preco_original": 54.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B076X7MN3X?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41OfCyesUwL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "09/10/2026 09:15"
+  },
+  {
     "nome": "Mini Berço Infantil Moisés Multifuncional 4 em 1 com Rodas para Quarto de Bebê",
     "preco_atual": 273.35,
     "preco_original": 399.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "06/10/2026 12:25"
-  },
-  {
-    "nome": "LEGO DUPLO Classic Caixa Colorida Criativa 10479",
-    "preco_atual": 129.9,
-    "preco_original": 169.89,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0G2T19K85?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51Z6fR9-Z+L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "06/10/2026 12:03"
   }
 ]
