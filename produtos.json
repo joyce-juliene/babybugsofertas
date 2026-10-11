@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Cercado Playland Gray Burigotto",
+    "preco_atual": 260.9,
+    "preco_original": 328.28,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FYR9LCGT?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41heDFroH+L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "11/10/2026 09:34"
+  },
+  {
     "nome": "Play-Doh, Massinha de Modelar Infantil, Mini Sorveteria Divertida - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 3 Anos",
     "preco_atual": 24.64,
     "preco_original": 37.06,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "09/10/2026 08:49"
-  },
-  {
-    "nome": "Tablet Infantil Patrulha Canina Skye com Controle Parental 4GB RAM + 64GB + Tela 7 pol + Case + Wi-fi + Android 13 + Quad Core Multi - NB422",
-    "preco_atual": 363.93,
-    "preco_original": 493.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0CJH2S2XC?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51DOMmrwptL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "08/10/2026 09:20"
   }
 ]
