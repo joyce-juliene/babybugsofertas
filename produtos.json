@@ -1,5 +1,15 @@
 [
   {
+    "nome": "LEGO Classic Amigos Criativos da Comida 11039",
+    "preco_atual": 62.9,
+    "preco_original": 79.99,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0DJ19Z5KM?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51vBsTpslsL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "12/10/2026 14:20"
+  },
+  {
     "nome": "Gorro Infantil de Inverno com Forro Touca Quentinha Estampa Leão (Cinza)",
     "preco_atual": 24.21,
     "preco_original": 49.21,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "10/10/2026 10:37"
-  },
-  {
-    "nome": "Tablet Infantil Princesas com Controle Parental 4GB RAM + 64GB + Tela 7 pol + Case + Wi-fi + Android 13 + Quad Core Multi - NB418",
-    "preco_atual": 467.9,
-    "preco_original": 656.81,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0CJH432LV?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41Pk+3Ld3zL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "09/10/2026 15:51"
   }
 ]
