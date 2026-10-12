@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Cosco Kids, Bebê Conforto Wizz, 0 a 13kg, Cinza Mescla",
+    "preco_atual": 313.9,
+    "preco_original": 449.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0BCHDZJCT?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41o22qcUNBL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "12/10/2026 13:24"
+  },
+  {
     "nome": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades",
     "preco_atual": 40.0,
     "preco_original": 51.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "09/10/2026 13:38"
-  },
-  {
-    "nome": "Brincando de Profissões Doutor e Cia Maleta Roma",
-    "preco_atual": 38.36,
-    "preco_original": 54.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B076X7MN3X?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41OfCyesUwL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "09/10/2026 09:15"
   }
 ]
