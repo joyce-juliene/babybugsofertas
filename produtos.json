@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Balanço Infantil Ursinho Xalingo",
+    "preco_atual": 102.44,
+    "preco_original": 132.0,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0BFFSZ2J6?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41S90goKxOL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "14/10/2026 07:57"
+  },
+  {
     "nome": "Skate Infantil 42 Shape Madeira C/Kit Proteção Importway",
     "preco_atual": 113.9,
     "preco_original": 178.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "11/10/2026 11:15"
-  },
-  {
-    "nome": "Cercado Playland Gray Burigotto",
-    "preco_atual": 260.9,
-    "preco_original": 328.28,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0FYR9LCGT?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41heDFroH+L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "11/10/2026 09:34"
   }
 ]
