@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Bicicleta De Equilibrio Buba, Verde, 4 Rodas",
+    "preco_atual": 157.86,
+    "preco_original": 199.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0DFFTP71B?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31WtulRsaAL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "15/10/2026 15:12"
+  },
+  {
     "nome": "BE PLACE KIDS Cavalinho de Balanço Rosa Brilhante, Gangorra Infantil",
     "preco_atual": 135.9,
     "preco_original": 189.5,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "14/10/2026 07:35"
-  },
-  {
-    "nome": "Bear Máquina de alimentos para bebês com cestas de vapor de camada dupla de 525 g, processador de alimentos para bebês OneSteamer, moedor de purê a vapor, moedor de cozimento automático e",
-    "preco_atual": 500.44,
-    "preco_original": 666.45,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0DYV4QGG8?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41TwNt-Kx-L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "13/10/2026 10:21"
   }
 ]
