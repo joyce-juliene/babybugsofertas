@@ -1,5 +1,15 @@
 [
   {
+    "nome": "JBL, Fone de Ouvido Bluetooth, Junior 320BT, Infantil, Sem Fio - Azul",
+    "preco_atual": 229.9,
+    "preco_original": 289.0,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0DHS6KXJL?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/3192n951irL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "15/10/2026 19:59"
+  },
+  {
     "nome": "Balde com Massas Acrilex 1.5 kg",
     "preco_atual": 25.3,
     "preco_original": 60.73,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "14/10/2026 08:03"
-  },
-  {
-    "nome": "Balanço Infantil Ursinho Xalingo",
-    "preco_atual": 102.44,
-    "preco_original": 132.0,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0BFFSZ2J6?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41S90goKxOL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "14/10/2026 07:57"
   }
 ]
