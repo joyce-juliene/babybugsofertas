@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Balde com Massas Acrilex 1.5 kg",
+    "preco_atual": 25.3,
+    "preco_original": 60.73,
+    "link_afiliado": "https://www.amazon.com.br/dp/B077Q7GDLN?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51F0kusp9jL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "15/10/2026 19:18"
+  },
+  {
     "nome": "Grownsy Máquina de alimentos para bebês com cesta a vapor de camada dupla | Processador de alimentos para bebês iniciantes e bebês a partir de 6 meses | Liquidificador a vapor e máquina de purê para",
     "preco_atual": 665.36,
     "preco_original": 997.41,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "14/10/2026 07:57"
-  },
-  {
-    "nome": "Skate Infantil 42 Shape Madeira C/Kit Proteção Importway",
-    "preco_atual": 113.9,
-    "preco_original": 178.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0GQVVJTJT?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41IC3Gz5DWL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "14/10/2026 07:41"
   }
 ]
