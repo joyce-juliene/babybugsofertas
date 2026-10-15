@@ -1,5 +1,15 @@
 [
   {
+    "nome": "NUK Canguru 3 Em 1 Ergonômico Comfort Cinza",
+    "preco_atual": 249.91,
+    "preco_original": 321.1,
+    "link_afiliado": "https://www.amazon.com.br/dp/B09YJ1NY2W?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41vi3lptAgL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "15/10/2026 14:07"
+  },
+  {
     "nome": "LEGO Super Heroes Marvel Robô do Homem-Aranha 76308 (107 Peças)",
     "preco_atual": 86.99,
     "preco_original": 132.77,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "12/10/2026 14:20"
-  },
-  {
-    "nome": "Gorro Infantil de Inverno com Forro Touca Quentinha Estampa Leão (Cinza)",
-    "preco_atual": 24.21,
-    "preco_original": 49.21,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0GZPHS2HM?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31TuZyGMmlL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "12/10/2026 13:53"
   }
 ]
