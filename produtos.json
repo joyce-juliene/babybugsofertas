@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Tênis Olympikus Pixel Infantil",
+    "preco_atual": 99.9,
+    "preco_original": 129.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FNXCGQMT?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31e-75kptlL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "20/10/2026 16:34"
+  },
+  {
     "nome": "Chupeta Dupla Ultra Air Philips Avent Decorada Recém Nascido 0-6M",
     "preco_atual": 39.91,
     "preco_original": 69.27,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "17/10/2026 10:59"
-  },
-  {
-    "nome": "Kit Tons Pastel, Faber-Castell, KIT/PASTEL, Lápis de Cor + Canetinhas + Borracha + Apontador + Grafite",
-    "preco_atual": 35.13,
-    "preco_original": 45.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B08HCL8TR4?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51nYni+s-6L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "17/10/2026 10:43"
   }
 ]
