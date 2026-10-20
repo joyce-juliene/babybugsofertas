@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Clingo Ajuste para Cinto de Segurança Preto",
+    "preco_atual": 22.62,
+    "preco_original": 33.25,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07CTSVM8T?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41PPNsGzPfL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "20/10/2026 11:37"
+  },
+  {
     "nome": "Burigotto Banheira Millenia, Mon Amour",
     "preco_atual": 249.91,
     "preco_original": 493.04,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "15/10/2026 19:59"
-  },
-  {
-    "nome": "Balde com Massas Acrilex 1.5 kg",
-    "preco_atual": 25.3,
-    "preco_original": 60.73,
-    "link_afiliado": "https://www.amazon.com.br/dp/B077Q7GDLN?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51F0kusp9jL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "15/10/2026 19:18"
   }
 ]
