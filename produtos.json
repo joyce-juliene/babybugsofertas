@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Canguru Safety 1st, Wallaby, Hipseat 5 em 1, 3,5kg a 15kg, Grey",
+    "preco_atual": 329.9,
+    "preco_original": 479.8,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0GRKH3SDG?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41MreMWQjnL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "22/10/2026 14:05"
+  },
+  {
     "nome": "Mochila Escolar Infantil Reforçada com Abertura 180° para meninos 7 a 13(Preto)",
     "preco_atual": 79.9,
     "preco_original": 99.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "20/10/2026 17:04"
-  },
-  {
-    "nome": "Tênis Olympikus Pixel Infantil",
-    "preco_atual": 99.9,
-    "preco_original": 129.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0FNXCGQMT?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31e-75kptlL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "20/10/2026 16:34"
   }
 ]
