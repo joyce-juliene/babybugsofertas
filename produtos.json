@@ -1,5 +1,15 @@
 [
   {
+    "nome": "BUBA Bola Plush, Colorido, Tamanho único",
+    "preco_atual": 37.9,
+    "preco_original": 48.61,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07QBJBHQ9?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31zIDSUpA6L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "23/10/2026 09:50"
+  },
+  {
     "nome": "DISNEY PELUCIA CLIPON DORMINDO F0165",
     "preco_atual": 24.88,
     "preco_original": 35.4,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "21/10/2026 11:16"
-  },
-  {
-    "nome": "Protetor Solar Corporal em Loção Sundown Kids, FPS 60, 100ml",
-    "preco_atual": 34.52,
-    "preco_original": 44.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0FPP1FTKY?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31698Pax84L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "21/10/2026 10:46"
   }
 ]
