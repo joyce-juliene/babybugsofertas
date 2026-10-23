@@ -1,5 +1,15 @@
 [
   {
+    "nome": "CAVALINHOS COM SOM SORTIDO",
+    "preco_atual": 93.95,
+    "preco_original": 119.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07SN1ZY8N?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41UWkpZCy1L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "23/10/2026 15:59"
+  },
+  {
     "nome": "Kit 3 Toalhas umedecidas Bebê Limpinho 140 und Cimed",
     "preco_atual": 24.99,
     "preco_original": 36.99,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "21/10/2026 17:22"
-  },
-  {
-    "nome": "Kit Touca Luva Pantufa Bebê Recém Nascido Enxoval Maternidade Algodão Antialérgico Menino Menina Unissex MXC BRASIL (Branco)",
-    "preco_atual": 19.99,
-    "preco_original": 39.99,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0DPN7W9L8?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/3168F09Lu2L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "21/10/2026 13:18"
   }
 ]
