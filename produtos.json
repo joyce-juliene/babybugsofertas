@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Kit Primeiros Passos - Lillo, Rosa, Vários volumes",
+    "preco_atual": 19.91,
+    "preco_original": 48.15,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07FS8P22T?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41KRtDfBtlL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "23/10/2026 10:37"
+  },
+  {
     "nome": "BUBA Bola Plush, Colorido, Tamanho único",
     "preco_atual": 37.9,
     "preco_original": 48.61,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "21/10/2026 13:13"
-  },
-  {
-    "nome": "Carrinho Vira Robô Transformável Infantil com Luz e Som Carro Camaro Amarelo Automático que se Transforma Brinquedo Divertido Presente Menino Criativo Pilhas Premium",
-    "preco_atual": 39.99,
-    "preco_original": 52.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0GVC8B6D7?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51xX1Z8EYUL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "21/10/2026 11:16"
   }
 ]
