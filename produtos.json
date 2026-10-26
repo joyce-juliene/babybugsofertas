@@ -1,5 +1,15 @@
 [
   {
+    "nome": "LEGO City Carro da Polícia 60312 (94 Peças)",
+    "preco_atual": 54.15,
+    "preco_original": 71.52,
+    "link_afiliado": "https://www.amazon.com.br/dp/B09FMW7FFF?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51pX8o3d6GL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "26/10/2026 09:16"
+  },
+  {
     "nome": "Travel System Maxi-Cosi, Eva³, Essential Black Champagne",
     "preco_atual": 2069.0,
     "preco_original": 2999.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "22/10/2026 14:05"
-  },
-  {
-    "nome": "Mochila Escolar Infantil Reforçada com Abertura 180° para meninos 7 a 13(Preto)",
-    "preco_atual": 79.9,
-    "preco_original": 99.9,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0HL5PBT4G?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41JxPRZp19L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "22/10/2026 13:22"
   }
 ]
