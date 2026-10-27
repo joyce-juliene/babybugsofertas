@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Lousa Verde 60x90cm Junges Verde",
+    "preco_atual": 42.89,
+    "preco_original": 54.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B07MC9MZBZ?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/21UAwnDpCaL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "27/10/2026 19:43"
+  },
+  {
     "nome": "Canguru Para Bebe,Alça De Transporte Multifuncional 6 e 1,Canguru Ergonomico Para Bebe,Adequado Para 0-36 Meses (Cinza)",
     "preco_atual": 103.0,
     "preco_original": 129.99,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "26/10/2026 08:26"
-  },
-  {
-    "nome": "Fone de Ouvido Bluetooth Infantil Gatinho Orelhas de Gato Luzes LED RGB Sem Fio + Entrada Fio P2 Original Presente Meninas e Meninos (Cinza)",
-    "preco_atual": 39.9,
-    "preco_original": 54.11,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0H3W6DYW3?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31T+bA8YxWL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "23/10/2026 16:56"
   }
 ]
