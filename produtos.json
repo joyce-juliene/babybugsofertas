@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Buba, Cinta De Sustentacao Para Gestante",
+    "preco_atual": 89.48,
+    "preco_original": 136.56,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0HD8LC4QB?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/31ExAQ158-L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "27/10/2026 15:49"
+  },
+  {
     "nome": "Bolsa Saída Maternidade Grande Bebê com Trocador Portátil Impermeável e Porta Chupeta Moby Cinza Maxi Baby",
     "preco_atual": 119.9,
     "preco_original": 159.0,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "23/10/2026 10:37"
-  },
-  {
-    "nome": "BUBA Bola Plush, Colorido, Tamanho único",
-    "preco_atual": 37.9,
-    "preco_original": 48.61,
-    "link_afiliado": "https://www.amazon.com.br/dp/B07QBJBHQ9?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31zIDSUpA6L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "23/10/2026 09:50"
   }
 ]
