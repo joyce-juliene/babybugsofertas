@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Presente para Bebê Recém Nascido Kit com Chocalho, Livro, Sabonete Líquido, Lenço Umedecido e Caixa Personalizada",
+    "preco_atual": 80.91,
+    "preco_original": 99.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0H8MNNJ2H?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/518GdORZjaL._SL500_.jpg",
+    "cupom": "5% OFF",
+    "asin": null,
+    "postado_em": "28/10/2026 10:54"
+  },
+  {
     "nome": "Safety 1st, Kit Completo Cuidados do Bebê, Aqua White",
     "preco_atual": 29.91,
     "preco_original": 59.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "26/10/2026 12:59"
-  },
-  {
-    "nome": "LEGO City Carro da Polícia 60312 (94 Peças)",
-    "preco_atual": 54.15,
-    "preco_original": 71.52,
-    "link_afiliado": "https://www.amazon.com.br/dp/B09FMW7FFF?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/51pX8o3d6GL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "26/10/2026 09:16"
   }
 ]
