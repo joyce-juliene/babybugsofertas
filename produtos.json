@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Safety 1st, Kit Completo Cuidados do Bebê, Aqua White",
+    "preco_atual": 29.91,
+    "preco_original": 59.9,
+    "link_afiliado": "https://www.amazon.com.br/dp/B089LMBX3W?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/51dFPC5AJaL._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "28/10/2026 10:09"
+  },
+  {
     "nome": "Lousa Verde 60x90cm Junges Verde",
     "preco_atual": 42.89,
     "preco_original": 54.9,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "26/10/2026 09:16"
-  },
-  {
-    "nome": "Travel System Maxi-Cosi, Eva³, Essential Black Champagne",
-    "preco_atual": 2069.0,
-    "preco_original": 2999.0,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0DB8XJK3P?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/31aKMNkaOkL._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "26/10/2026 08:26"
   }
 ]
