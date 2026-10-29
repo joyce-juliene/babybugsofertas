@@ -1,5 +1,15 @@
 [
   {
+    "nome": "Skate Infantil 60cm Completo Até 40kg Iniciante Várias Estampas (DRAGÃO LARANJA)",
+    "preco_atual": 95.99,
+    "preco_original": 205.65,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FB49G8RF?tag=baby08c70-20",
+    "foto_url": "https://m.media-amazon.com/images/I/41SSGWnJg8L._SL500_.jpg",
+    "cupom": null,
+    "asin": null,
+    "postado_em": "29/10/2026 15:36"
+  },
+  {
     "nome": "Bento Box Buba Zoo Unicornio",
     "preco_atual": 37.99,
     "preco_original": 60.21,
@@ -88,15 +98,5 @@
     "cupom": null,
     "asin": null,
     "postado_em": "27/10/2026 16:10"
-  },
-  {
-    "nome": "Buba Conchas Protetoras Para Amamentacao Transparente",
-    "preco_atual": 26.9,
-    "preco_original": 37.71,
-    "link_afiliado": "https://www.amazon.com.br/dp/B07QBJ5MM3?tag=baby08c70-20",
-    "foto_url": "https://m.media-amazon.com/images/I/41vtnxEm74L._SL500_.jpg",
-    "cupom": null,
-    "asin": null,
-    "postado_em": "27/10/2026 15:54"
   }
 ]
